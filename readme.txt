@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git is a distributed version control system.
 Git has a mutable index called stage.
 Git tracks changes of file.
+My stupid boss still perfer SVN. before commmit can use 'git checkout -- readme.txt' restore.
 
